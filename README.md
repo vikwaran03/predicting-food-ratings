@@ -42,4 +42,5 @@ After running the permutation tests, the resulting p-value is 0.003. Hence, the 
 
 Here is a plot that shows the distribution of the calculated test statistics and the observed test statistic:
 
+
 <iframe src="assets/plot1.html" width=800 height=600 frameBorder=0></iframe>
