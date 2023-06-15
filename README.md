@@ -40,7 +40,7 @@ Alternative Hypothesis (H1): The classifier's accuracy is higher for recipes wit
 
 The test statistic I will be using is the difference in accuracy (less minus more) and the significance level I will be evaluating on is alpha = 0.01.
 
-After running the permutation tests, the resulting p-value is 0.003. Hence, the null hypothesis should be rejected and it can be said that there is a good chance the classifier's accuracy is higher for recipes with more than or equal to 9 ingredients. 
+After running the permutation tests, the resulting p-value is 0.002. Hence, the null hypothesis should be rejected and it can be said that there is a good chance the classifier's accuracy is higher for recipes with more than or equal to 9 ingredients. 
 
 Here is a plot that shows the distribution of the calculated test statistics and the observed test statistic:
 
