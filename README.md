@@ -1,2 +1,15 @@
-# predicting-food-ratings
-Project 5 for DSC 80 at UC San Diego
+<title> Predicting food ratings with multiple features</title>
+
+# Predicting food ratings with multiple features
+
+### Framing the model:
+
+
+### Baseline Model
+
+
+### Final Model
+
+
+### Fairness Analysis
+
