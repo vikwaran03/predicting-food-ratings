@@ -2,6 +2,8 @@
 
 # Predicting food ratings with multiple features
 
+EDA Website: https://vikwaran03.github.io/eda_recipes/
+
 <h2> Framing the model </h2>
 
 The question that my model will be trying to address is the following:<i><b> can we predict the rating of a food recipe based on features like:</b></i>
